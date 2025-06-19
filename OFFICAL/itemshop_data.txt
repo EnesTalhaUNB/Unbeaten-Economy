@@ -373,7 +373,7 @@ Id: 382, Name: Caltrop, Selling: 25.00
 Id: 383, Name: Maple Spikes, Selling: 20.00
 Id: 384, Name: Birch Spikes, Selling: 20.00
 Id: 385, Name: Pine Spikes, Selling: 20.00
-Id: 386, Name: Barbed Wire, Selling: 55.00
+Id: 386, Name: Barbed Wire, Selling: 175.00
 Id: 387, Name: Adrenaline, Selling: 40.00
 Id: 388, Name: Morphine, Selling: 35.00
 Id: 389, Name: Antibiotics, Selling: 30.00
