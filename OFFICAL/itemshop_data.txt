@@ -373,7 +373,7 @@ Id: 382, Name: Caltrop, Selling: 25.00
 Id: 383, Name: Maple Spikes, Selling: 20.00
 Id: 384, Name: Birch Spikes, Selling: 20.00
 Id: 385, Name: Pine Spikes, Selling: 20.00
-Id: 386, Name: Barbed Wire, Selling: 55.00
+Id: 386, Name: Barbed Wire, Selling: 175.00
 Id: 387, Name: Adrenaline, Selling: 40.00
 Id: 388, Name: Morphine, Selling: 35.00
 Id: 389, Name: Antibiotics, Selling: 30.00
@@ -692,7 +692,7 @@ Id: 1193, Name: High Caliber Ranger Ammunition Box, Selling: 0.00
 Id: 1194, Name: Horde Beacon, Selling: 10000.00
 Id: 1195, Name: Handcuffs, Selling: 60.00
 Id: 1196, Name: Handcuffs Key, Selling: 50.00
-Id: 1197, Name: Cable Tie, Selling: 15.00
+Id: 1197, Name: Cable Tie, Selling: 87.50
 Id: 1198, Name: Pickaxe, Selling: 60.00
 Id: 1199, Name: Headlamp, Selling: 55.00
 Id: 1200, Name: Military Fragmentation Magazine, Selling: 300.00
